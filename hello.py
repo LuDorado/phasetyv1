@@ -3,7 +3,7 @@
 #!/usr/bin/env python
 
 # example radiobuttons.py
-# Riber decime que se siente...
+# Riber decime que se siente... :D
 
 import sys
 from PyQt4 import QtCore, QtGui
