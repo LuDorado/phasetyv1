@@ -20,4 +20,6 @@ if __name__ == "__main__":
     tree.resize(320, 480)
     tree.show()
     
+# dediquense a programar!
+
     sys.exit(app.exec_())
