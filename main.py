@@ -1,7 +1,7 @@
 """
 este es el lanzador principal del programa
 chiva. chiva porque nosotros si somos TRI
-.... esos tri no se olvidan nunca :)
+.... Esos tri no se olvidan nunca :) JAJA.... Nosotros pusimos la cara cuando caímos, no nos salvó ningún decreto
 """
 River Plate el mas grande lejos
 
